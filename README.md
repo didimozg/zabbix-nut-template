@@ -2,6 +2,8 @@
 
 ![Zabbix](https://img.shields.io/badge/Zabbix-7.0%2B-red) ![License](https://img.shields.io/badge/License-GPLv3-blue)
 
+Russian documentation: [README_RU.md](./README_RU.md).
+
 Universal template for monitoring Uninterruptible Power Supplies (UPS) via **Network UPS Tools (NUT)** in **Zabbix 7.0+**.
 
 This template is optimized for **APC Smart-UPS** but works with most UPS devices supported by NUT. It solves the common console "garbage" output issue (`Init SSL without certificate database`), correctly handles JSON Discovery, and supports automatic parameter detection.

@@ -3,6 +3,8 @@
 
 ![Zabbix](https://img.shields.io/badge/Zabbix-7.0%2B-red) ![License](https://img.shields.io/badge/License-GPLv3-blue)
 
+English documentation: [README.md](./README.md).
+
 Универсальный шаблон для мониторинга источников бесперебойного питания (ИБП) через **Network UPS Tools (NUT)** в системе мониторинга **Zabbix 7.0+**.
 
 Шаблон оптимизирован для **APC Smart-UPS**, но подходит для большинства ИБП, поддерживаемых NUT. Решает проблему с "мусорным" выводом консоли (`Init SSL without certificate database`), корректно обрабатывает JSON Discovery и поддерживает автоматическое обнаружение параметров.
