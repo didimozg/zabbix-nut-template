@@ -80,7 +80,7 @@ fi
 
 ```
 
-> **Note:** If your NUT server listens on an external IP, change the `NUT_HOST` variable inside the script (e.g., to `192.168.1.10`).
+> **Note:** If your NUT server listens on an external IP, change the `NUT_HOST` variable inside the script (e.g., to `192.0.2.10`).
 
 Make the script executable:
 
