@@ -54,7 +54,7 @@ sudo nano /etc/zabbix/scripts/ups_handler.sh
 
 # IP адрес вашего сервера NUT (обычно localhost или IP сервера)
 NUT_HOST="127.0.0.1" 
-# Если NUT требует авторизации, используйте формат: username:password@127.0.0.1
+# Если NUT требует авторизации, используйте формат: nut-user:nut-password@127.0.0.1
 
 # --- РЕЖИМ 1: Автообнаружение (Discovery) ---
 if [ "$1" = "ups.discovery" ]; then

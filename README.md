@@ -53,7 +53,7 @@ Paste the following code:
 
 # IP address of your NUT server (usually 127.0.0.1 or server IP)
 NUT_HOST="127.0.0.1" 
-# If NUT requires authentication, use format: username:password@127.0.0.1
+# If NUT requires authentication, use format: nut-user:nut-password@127.0.0.1
 
 # --- MODE 1: Discovery ---
 if [ "$1" = "ups.discovery" ]; then
