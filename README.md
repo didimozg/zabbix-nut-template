@@ -1,6 +1,6 @@
 # Universal NUT UPS Template for Zabbix 7.x
 
-![Zabbix](https://img.shields.io/badge/Zabbix-7.0%2B-red) ![License](https://img.shields.io/badge/License-GPLv3-blue)
+![Zabbix](https://img.shields.io/badge/Zabbix-7.0%2B-red) ![License](https://img.shields.io/github/license/didimozg/zabbix-nut-template)
 
 Russian documentation: [README_RU.md](./README_RU.md).
 
